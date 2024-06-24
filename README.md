@@ -1,4 +1,4 @@
-# discord-link-parser
+# discord-app-test
 
 To install dependencies:
 
